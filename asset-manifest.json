@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nexus-Fit/static/css/main.e6c13ad2.css",
+    "main.js": "/Nexus-Fit/static/js/main.8ae5ba6b.js",
+    "static/js/453.671b9db6.chunk.js": "/Nexus-Fit/static/js/453.671b9db6.chunk.js",
+    "index.html": "/Nexus-Fit/index.html",
+    "main.e6c13ad2.css.map": "/Nexus-Fit/static/css/main.e6c13ad2.css.map",
+    "main.8ae5ba6b.js.map": "/Nexus-Fit/static/js/main.8ae5ba6b.js.map",
+    "453.671b9db6.chunk.js.map": "/Nexus-Fit/static/js/453.671b9db6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8ae5ba6b.js"
+  ]
+}
